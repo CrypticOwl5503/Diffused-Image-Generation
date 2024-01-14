@@ -17,7 +17,7 @@ You can install the required packages using:
 
 ```bash
 pip install torch numpy matplotlib torchvision datasets
-
+```
 ## Model Architecture
 The diffusion model consists of a U-Net architecture with attention blocks and residual blocks. The architecture is designed to capture complex patterns and generate realistic images.
 
